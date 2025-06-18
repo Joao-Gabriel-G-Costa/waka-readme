@@ -47,11 +47,11 @@ A GitHub repository and a `README.md` file is required. We'll be making use of r
   <!--START_SECTION:waka-->
 
 ```txt
-From: 09 June 2025 - To: 16 June 2025
+From: 10 June 2025 - To: 17 June 2025
 
-Total Time: 4 hrs 37 mins
+Total Time: 6 hrs 40 mins
 
-SQL   4 hrs 37 mins   █████████████████████████   100.00 %
+SQL   6 hrs 40 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
