@@ -47,12 +47,14 @@ A GitHub repository and a `README.md` file is required. We'll be making use of r
   <!--START_SECTION:waka-->
 
 ```txt
-From: 28 August 2025 - To: 04 September 2025
+From: 29 August 2025 - To: 05 September 2025
 
-Total Time: 1 hr 7 mins
+Total Time: 1 hr 57 mins
 
-Python   1 hr 7 mins     ████████████████████████▒   97.49 %
-Other    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Python       1 hr 7 mins     ██████████████░░░░░░░░░░░   56.44 %
+JavaScript   39 mins         ████████▒░░░░░░░░░░░░░░░░   33.16 %
+SCSS         10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 
 <!--END_SECTION:waka-->
