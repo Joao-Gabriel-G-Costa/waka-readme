@@ -47,7 +47,7 @@ A GitHub repository and a `README.md` file is required. We'll be making use of r
   <!--START_SECTION:waka-->
 
 ```txt
-From: 10 April 2026 - To: 17 April 2026
+From: 11 April 2026 - To: 18 April 2026
 
 Total Time: 1 min
 
